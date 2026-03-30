@@ -1,113 +1,160 @@
-# 👋 Hola, soy David Burneo
+# 👋 Hi, I'm David Burneo
 
-💻 **Full Stack Developer | Tech Lead | AI Enthusiast**  
-📍 Loja, Ecuador  
-
-Soy desarrollador Full Stack con experiencia en sistemas empresariales complejos, especialmente en el sector financiero. Me enfoco en construir soluciones escalables, robustas y orientadas a negocio, aplicando principios como **Clean Architecture, SOLID y DevOps**.
+💻 Full Stack Developer | Tech Lead | .NET Specialist  
+📍 Ecuador | Open to remote opportunities  
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 What I build
 
-- 🧠 +3 años de experiencia en desarrollo de software
-- 🏦 Experiencia real en sistemas financieros en producción
-- 👨‍💻 Líder técnico gestionando equipos de desarrollo
-- ⚙️ Especializado en arquitecturas modernas y microservicios
-- 🤖 Interesado en Inteligencia Artificial y automatización
+I design and develop **scalable, high-performance systems**, mainly in the financial sector, using modern architectures like **microservices and Clean Architecture**.
 
-Actualmente trabajo como **Tech Lead en CoopMego**, liderando el desarrollo de un sistema de crédito utilizado a nivel nacional.
+I focus on:
+- Building reliable backend systems
+- Optimizing critical business processes
+- Delivering production-ready solutions with real impact
 
 ---
 
-## 🛠️ Tecnologías principales
+## 🧠 About me
 
-### 🔹 Backend
-- .NET 10 / .NET Framework
-- C#
-- API REST / gRPC
-- Arquitectura limpia / hexagonal
+- 💼 +3 years of experience in software development
+- 🏦 Experience building **financial systems used in production**
+- 👨‍💻 Tech Lead managing development teams
+- ⚙️ Strong background in **backend architecture and system design**
+- 🤖 Currently specializing in **Applied AI**
 
-### 🔹 Frontend
+---
+
+## 🏗️ Key Experience
+
+### 🏦 Credit System Platform (CoopMego)
+
+Led the **end-to-end development** of a core credit system used across all branches nationwide.
+
+**Impact:**
+- Reduced credit approval time
+- Improved operational efficiency and traceability
+- Fully digitalized credit workflow
+
+**Responsibilities:**
+- System architecture design (microservices)
+- Full stack development (.NET + React)
+- Integration with financial core systems (REST, gRPC, async messaging)
+- CI/CD pipelines with Docker & Jenkins
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+- .NET (C#)
+- REST APIs / gRPC
+- Clean Architecture / SOLID
+
+### Frontend
 - React (TypeScript)
 - Vue.js
-- JavaScript / TypeScript
 
-### 🔹 Bases de datos
+### Databases
 - PostgreSQL
 - SQL Server
 - Sybase
 - MongoDB
 
-### 🔹 DevOps & Tools
+### DevOps
 - Docker
-- Jenkins (CI/CD)
-- Git
-- n8n (automatización de flujos)
+- Jenkins
+- CI/CD pipelines
 
-### 🔹 Otros
+### Other
 - Python
-- Microservicios
+- Microservices
 - PL/pgSQL
 - DevSecOps
-- ML & LLMs
+- n8n (workflow automation)
+- AI / LLM integrations
 
 ---
 
-## 🧩 Experiencia destacada
+## 💡 Selected Projects
 
-### 🏦 Sistema de Crédito (CoopMego)
-
-- Lideré el desarrollo completo del sistema crediticio institucional
-- Implementé arquitectura basada en microservicios
-- Reduje tiempos de análisis y aprobación de crédito
-- Integración con core financiero mediante APIs y mensajería
-- Sistema actualmente en producción a nivel nacional
+- 🤖 AI-based document validation system  
+- ⚖️ Automated judicial data retrieval system (Python microservices)  
+- 📊 Internal enterprise management systems  
+- 🔄 Legacy system migration to modern architectures  
 
 ---
 
-## 💡 Proyectos relevantes
+## 🚀 Featured Projects
 
-- 🤖 Sistema de validación de documentos con IA  
-- ⚖️ Automatización de consultas judiciales (Python + microservicios)  
-- 📊 Sistemas administrativos internos  
-- 🔄 Migración de sistemas legacy a arquitecturas modernas  
+### 🔐 Hybrid Encryption Library (Distributed Apps)
 
----
+A custom encryption library designed for **secure communication in distributed systems**, compatible with **.NET backend and React frontend**.
 
-## 🧠 Formación
+**Highlights:**
+- Hybrid encryption (symmetric + asymmetric)
+- Secure key exchange mechanisms
+- Designed for API-based architectures
+- Easy integration into microservices
 
-- 🎓 Magíster en Inteligencia Artificial Aplicada (en curso)
-- 🎓 Magíster en Ingeniería de Software
-- 🎓 Ingeniero en Sistemas Informáticos
-
----
-
-## 📈 Qué puedo aportar
-
-✔️ Diseño de arquitecturas escalables  
-✔️ Desarrollo end-to-end (frontend + backend)  
-✔️ Integración de sistemas complejos  
-✔️ Optimización de rendimiento  
-✔️ Liderazgo técnico y toma de decisiones  
-✔️ Implementación de CI/CD y buenas prácticas  
+**Tech:** .NET, C#, React, Cryptography
 
 ---
 
-## 🤝 Busco colaborar en
+### 🚨 AI-Based Road Emergency Detection System
 
-- Proyectos backend robustos (.NET / microservicios)
-- Plataformas SaaS
-- Sistemas financieros o empresariales
-- Proyectos con IA aplicada
+An intelligent system that detects and notifies **road emergencies in real time**, using data processing and AI techniques.
+
+**Highlights:**
+- Early detection of road incidents
+- Real-time notification system
+- Data ingestion and analysis pipeline
+- Designed for scalability and integration with external services
+
+**Tech:** Python, AI/ML, APIs, Data Processing
 
 ---
 
-## 📫 Contacto
+### 🌸 E-commerce Platform for Local Flower Shops
+
+A modern e-commerce solution tailored for **local florists**, enabling them to manage products, orders, and online sales.
+
+**Highlights:**
+- Product catalog and order management
+- User-friendly interface
+- Designed for small businesses
+- Scalable architecture for growth
+
+**Tech:** React, .NET, PostgreSQL
+
+---
+
+## 📈 What I bring
+
+- Scalable system design
+- Strong backend expertise
+- Full-stack development capability
+- Real-world production experience
+- Technical leadership & decision making
+- Performance optimization mindset
+
+---
+
+## 🤝 Open to
+
+- Remote backend / full stack roles
+- .NET / microservices projects
+- SaaS platforms
+- AI-driven solutions
+
+---
+
+## 📫 Contact
 
 📧 davichov2013@gmail.com  
-📱 +593 99 121 1239  
 🔗 LinkedIn: https://www.linkedin.com/in/david-burneo-ab879a153  
 
 ---
 
-⭐ *Siempre abierto a nuevas oportunidades, colaboraciones y retos técnicos.*
+⭐ *I build systems that scale, perform and deliver real business value.*
